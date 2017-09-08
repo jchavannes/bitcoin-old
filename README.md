@@ -1,6 +1,6 @@
-# Links
+# Bitcoin
 
-Interesting web pages, articles, and more
+Things I've found out about bitcoin.
 
 #### To run
 
