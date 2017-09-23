@@ -1,0 +1,69 @@
+timeline:
+
+  - name: The resolution of the Bitcoin experiment
+    author: Mike Hearn
+    date: 2016-01-14
+    url: https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+    description: Mike Hearn leaves Bitcoin and sells all Bitcoins
+
+  - name: The future of Bitcoin and rebuilding the financial system
+    author: Mike Hearn
+    date: 2012-09-XX
+    url: https://www.youtube.com/watch?v=mD4L7xDNCmA
+    description: Bitcoin 2012 London: Mike Hearn
+    quotes:
+      - |
+        The Bitcoin system, protocol and software, is full of features that lie dormant.  They are not used today and
+        when I was reimplementing Bitcoin in Java a few years ago, I ran across these features and I asked Satoshi what
+        are they for? He responded by giving me some basic training on the design of what he calls contracts and then he
+        vanished so the rest we have to figure out ourselves.
+
+  - name: Transactions and Scripts: DUP HASH160 ... EQUALVERIFY CHECKSIG
+    author: Satoshi Nakamoto
+    date: 2010-06-17
+    url: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+    quotes:
+      - |
+        The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow
+        transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a
+        big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning
+        to make sure they would be possible later.
+
+links:
+
+  - name: Blockchair Bitcoin Blocks
+    url: https://blockchair.com/bitcoin/blocks
+
+  - name: Blockchair Bitcoin Cash Blocks
+    url: https://blockchair.com/bitcoin-cash/blocks
+
+  - name: Cryptocurrency Market Capitalizations
+    url: https://coinmarketcap.com/
+
+  - name: Coin Dance - Bitcoin Cash Block Details
+    url: https://cash.coin.dance/blocks
+
+  - name: Kraken BTC BCC Trading
+    url: https://trade.kraken.com/kraken/bchbtc/2h
+
+  - name: Bitcoin Cash Mempool
+    url: https://jochen-hoenicke.de/queue/cash/#8h
+
+  - name: Bitcoin Mempool
+    url: https://jochen-hoenicke.de/queue/#8h
+
+  - name: Mining Profitability BTC vs BCC
+    url: http://fork.lol/
+
+  - name: The Quotable Satoshi
+    url: http://satoshi.nakamotoinstitute.org/quotes/
+
+  - name: Bitcoin Network Hashrate Chart and Graph
+    url: https://www.coinwarz.com/network-hashrate-charts/bitcoin-network-hashrate-chart
+
+  - name: BitcoinCash Network Hashrate Chart and Graph
+    url: https://www.coinwarz.com/network-hashrate-charts/bitcoincash-network-hashrate-chart
+
+  - name: Bitcoin, Bitcoin Cash Transactions historical chart
+    url: https://bitinfocharts.com/comparison/transactions-btc-bch.html#3m
+
